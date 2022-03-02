@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EventhubstreamApplication<eventhubstream>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.microsoft.streaming.eventhubstream.EventhubstreamApplication",
+            "projectName": "eventhubstream",
+            "args": "",
+            "env": {
+                "blockchainAuthToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkFQSSJ9.eyJhdWQiOiJtZXJjdXJ5IiwidWlkIjoiNDExMTQwMWEtNzQ1Yy00N2Q4LWFiNDUtNjE5ZGRmMWNhNjhkIiwiaXNzIjoiYmxvY2tjaGFpbiIsInJkbyI6dHJ1ZSwiaWF0IjoxNjQzMDE0NDczLCJqdGkiOiIyMDNkOGFlZS1lZThiLTQ1YmMtODdjZC03YmNlYzZmYTYyMmYiLCJzZXEiOjUwMzM3NDYsIndkbCI6ZmFsc2V9.IOgriM4w0DleukwtsHJhrghp33RPnsmZ1jgdjqxU9OkjbEeokf8Q+KoG2nh/bkYAmN7CAhNIIy6JKny7G9NONMA="
+            }
+        }
+    ]
+}
